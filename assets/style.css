@@ -1,0 +1,61 @@
+.row{
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.one{
+background-image: url(http://placehold.it//1340x400);
+height: 400px;
+}
+
+.two{
+
+height: 350px;
+background-color: red;
+}
+.title{
+text-align: center;
+    display: block;
+
+}
+.title{
+    font-family: 'Roboto Slab', serif;
+  
+    font-weight: bold
+}
+.page{
+    background-color: tan;
+}
+.three{
+    height: 500px;
+    /* background: lightblue; */
+    padding-top: 120px;
+    
+}
+.card{
+margin-left: 20px;
+margin-right: 20px;
+}
+.thumbnail {
+    border: 0 none;
+}
+.four{
+    height: 300px;
+    background: black;
+    color: white;
+    padding-top: 150px;
+
+}
+button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+.buttons{
+ 
+}
+.logo{
+  /* float: right; */
+}
